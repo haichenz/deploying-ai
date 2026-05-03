@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+tests/
+sample_logs/
+# Private journal artifacts — never commit
+data/trade_docs_private/
+data/chroma_db_private/
+data/raw_logs/
